@@ -1,0 +1,14 @@
+{
+  "name": "@orxoca/carriers",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/oca/client.ts",
+  "types": "src/oca/client.ts",
+  "dependencies": {
+    "@orxoca/types": "file:../types"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  }
+}

@@ -1,0 +1,4 @@
+external_id,retiro_apellido,retiro_nombre,retiro_calle,retiro_numero,retiro_localidad,retiro_provincia,retiro_cp,retiro_email,retiro_telefono,alto_cm,ancho_cm,largo_cm,peso_kg,valor_declarado
+PED-0001,Perez,Juan,San Martin,1234,CABA,CABA,1001,retiro1@cliente.com,1133331111,10,10,10,1.2,100
+PED-0002,Gomez,Ana,Rivadavia,4567,La Plata,Buenos Aires,1900,retiro2@cliente.com,1133332222,20,15,12,2.5,10000
+PED-0003,Lopez,Carlos,Belgrano,890,Rosario,Santa Fe,2000,retiro3@cliente.com,1133333333,12,12,8,0.9,500

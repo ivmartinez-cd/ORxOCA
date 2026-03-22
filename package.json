@@ -1,0 +1,16 @@
+{
+  "name": "or-x-oca",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "dev": "npm run dev -w web",
+    "build": "npm run build -w web",
+    "start": "npm run start -w web",
+    "typecheck": "npm run typecheck -ws --if-present"
+  }
+}
